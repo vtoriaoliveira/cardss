@@ -1,0 +1,155 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+ *{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+
+body{
+    display:flex;
+    
+    background-color: rgb(26, 22, 22);
+   
+    
+}
+
+
+.card1{border-radius: 10px;
+    width: 250px;
+    height: 320px;
+    margin-left: 20px;
+    background-color: white;
+border-radius: 15px;
+display: flex;
+}
+img{
+    width: 210px;
+    height: 186px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    opacity: 0.4;
+}
+.p2
+{
+    font-size: 20px;
+    margin-top: 230px;
+    margin-left: -165px;
+    letter-spacing: 3px;
+    font-family:'montserrat', sans-serif ;
+    
+
+
+}
+.p1{font-size: 20px;
+    margin-top: 258px;
+    margin-left: -96px;
+    letter-spacing: 2px;
+font-family: 'montserrat', sans-serif ;}
+
+.card2
+{border-radius: 10px;
+    width: 263px;
+    height: 179px;
+    background-color: white;
+    margin : 50px; 
+flex-grow:1}
+    .h33{
+        margin-top: -210px;
+        margin-left: 67px;
+        letter-spacing: 2px;
+       font-size: 23px;
+       font-family: 'montserrat',sans-serif;
+       font-weight: 500;
+       
+    }
+    .p3{
+        font-size: 16px;
+        opacity: 0.5;
+        margin-left: 69px;
+        margin-top: 10px;
+        letter-spacing: 1px;
+    }
+    button{margin-left: 200px;
+        margin-top: 15px;
+        border-radius: 12px;
+       width: 90px;
+       height: 30px;
+       border: 0;
+       letter-spacing: 0.5px;
+       color: white;
+       background-color: rgb(98, 93, 102);
+
+    
+
+    }
+    .card3{
+        display: flex;
+       margin-top: 10vh;
+       margin-left: 10vh;
+       width: 500px;
+       height: 130px;
+      background-color: white;
+       border-radius: 20px;
+    }
+ .card4{display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: rgb(219, 213, 202);
+    opacity: 2.0;
+    margin-left: 68vh;
+    margin-top: -18vh;
+}
+
+.titulo{ font-family:'montserrat', sans-serif ;
+    margin-top: -14vh;
+    margin-left: 13.5vh;
+    letter-spacing:2px;
+    font-weight: 500;
+    font-size: 23px;
+}
+.paragrafo2{ margin-left: 13.5vh;
+font-family: 'montserrat',sans-serif;
+font-size: 13px;
+opacity: 0.7;
+letter-spacing: 1px;}
+
+.paragrafo3{ margin-left: 13.8vh;
+    margin-top: 4vh;
+    font-family: 'montserrat',sans-serif;
+font-size: 13px;
+opacity: 0.7;
+letter-spacing: 1px;
+
+
+}
+
+
+
+ 
+        
+    
+     
+
+
+
+
+    
+       
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
